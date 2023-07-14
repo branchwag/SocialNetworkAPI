@@ -2,21 +2,10 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This project is a simple API for a social networking app using MongoDB! Feel free to clone this repo and test the endpoints in Insomnia!
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Walkthrough video testing endpoints: 
+https://drive.google.com/file/d/1vmiJtqY9kQtIP1oaF6miozJv-BDaJZdB/view
 
 ## Installation
 
